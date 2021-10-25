@@ -1,7 +1,7 @@
 # SMS_Bomber
 
 > I Used All Sim Api
-> , so donot worry code will be updated every moment.
+> 
 
 
 *For linux Use This link :-
